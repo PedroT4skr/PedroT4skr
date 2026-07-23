@@ -46,8 +46,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroT4skr&show_icons=true&theme=transparent&title_color=61AFEF&text_color=8B949E&icon_color=61AFEF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroT4skr&layout=compact&theme=transparent&title_color=61AFEF&text_color=8B949E&icon_color=61AFEF&hide_border=true&hide=html,css" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroT4skr&show_icons=true&bg_color=0d1117&title_color=61AFEF&text_color=8B949E&icon_color=61AFEF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroT4skr&layout=compact&bg_color=0d1117&title_color=61AFEF&text_color=8B949E&icon_color=61AFEF&hide_border=true&hide=html,css" alt="Top Languages"/>
 </p>
 
 <p align="center">
