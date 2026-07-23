@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Tigre 👋
+# Hi there, I'm Pedro Tigre
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&height=60&lines=Pedro+Tigre;Full-Stack+%26+Mobile+Developer;Building+Intelligent+%26+High-Performance+Apps" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ About Me
+### <img src="https://api.iconify.design/octicon:person-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> About Me
 
 - **Currently Building**: [gabaritei-ia](https://github.com/PedroT4skr/gabaritei-ia) *(Automated OMR grading via Computer Vision)* & [react-media-streaming-app](https://github.com/PedroT4skr/react-media-streaming-app)
 - **Specialization**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) & Mobile Apps (**Flutter** & **Dart**)
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://api.iconify.design/octicon:tools-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> Tech Stack & Tools
 
 #### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### <img src="https://api.iconify.design/octicon:graph-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroT4skr&show_icons=true&bg_color=0d1117&title_color=61AFEF&text_color=8B949E&icon_color=61AFEF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -56,7 +56,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://api.iconify.design/octicon:repo-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
