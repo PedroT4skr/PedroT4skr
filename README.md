@@ -13,10 +13,12 @@
 
 ### <img src="https://api.iconify.design/octicon:person-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> About Me
 
-- **Currently Building**: [gabaritei-ia](https://github.com/PedroT4skr/gabaritei-ia) *(Automated OMR grading via Computer Vision)* & [react-media-streaming-app](https://github.com/PedroT4skr/react-media-streaming-app)
-- **Specialization**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) & Mobile Apps (**Flutter** & **Dart**)
-- **Architecture & AI**: Clean Architecture (MVVM), intuitive UI/UX design, and AI-driven automation
-- **Goal**: Crafting high-performance, resilient, and visually stunning software
+- **Academic Focus**: Information Systems (**Sistemas de Informação**) Student — combining software engineering, computer science fundamentals, and business technology.
+- **Currently Building**: [gabaritei-ia](https://github.com/PedroT4skr/gabaritei-ia) *(Automated OMR grading via Computer Vision)* & [react-media-streaming-app](https://github.com/PedroT4skr/react-media-streaming-app).
+- **Specialization**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) & Cross-Platform Mobile Applications (**Flutter** & **Dart**).
+- **Architecture & Quality**: Clean Architecture (MVVM), SOLID principles, responsive UI/UX design, and AI-driven automation.
+- **Continuous Learning**: Always exploring cutting-edge web technologies, performance optimization, and intelligent system integrations.
+- **Goal**: Transforming complex ideas into resilient, scalable, and visually stunning digital products.
 
 ---
 
