@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61AFEF&height=180&section=header&text=Pedro%20Tigre&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&height=60&lines=Hi+there!+I'm+Pedro+Tigre+%F0%9F%90%AF;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8D%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Hi+there%2C+I'm+Pedro+Tigre" alt="Typing SVG" />
 </p>
 
 <p align="center">
