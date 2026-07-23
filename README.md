@@ -114,13 +114,13 @@
       <p align="center"><a href="https://github.com/PedroT4skr/controle-financeiro-app"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Harbor-1</h3>
+      <h3 align="center">Pizza-Flow</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Stremio-8B5CF6?style=flat-square&logo=stremio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Client-007ACC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
-      <p>Cliente Stremio personalizado desenvolvido para uma experiência de streaming ágil e customizável.</p>
-      <p align="center"><a href="https://github.com/PedroT4skr/harbor-1"><b>View Repository →</b></a></p>
+      <p>Sistema completo de gerenciamento e fluxo de pedidos em tempo real construído em TypeScript e Node.js.</p>
+      <p align="center"><a href="https://github.com/PedroT4skr/Pizza-Flow"><b>View Repository →</b></a></p>
     </td>
   </tr>
 </table>
