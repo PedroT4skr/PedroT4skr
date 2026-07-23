@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PedroT4skr"><img src="https://img.shields.io/badge/GitHub-PedroT4skr-61AFEF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub Profile"/></a>
+  <a href="https://www.linkedin.com/in/pedrotigree/"><img src="https://img.shields.io/badge/LinkedIn-pedrotigree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn Profile"/></a>
   <a href="https://github.com/PedroT4skr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9-61AFEF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Repositories"/></a>
 </p>
 
@@ -68,5 +68,6 @@
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/pedrotigree/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/PedroT4skr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
