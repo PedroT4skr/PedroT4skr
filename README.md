@@ -1,7 +1,9 @@
-# Hi there, I'm Pedro Tigre
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61AFEF&height=180&section=header&text=Pedro%20Tigre&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&height=60&lines=Pedro+Tigre;Full-Stack+%26+Mobile+Developer;Building+Intelligent+%26+High-Performance+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&height=60&lines=Hi+there!+I'm+Pedro+Tigre+%F0%9F%90%AF;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8D%93" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,18 +11,28 @@
   <a href="https://github.com/PedroT4skr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9-61AFEF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Repositories"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<br/>
 
 ### <img src="https://api.iconify.design/octicon:person-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> About Me
 
-- **Academic Focus**: Information Systems (**Sistemas de Informação**) Student — combining software engineering, computer science fundamentals, and business technology.
-- **Currently Building**: [gabaritei-ia](https://github.com/PedroT4skr/gabaritei-ia) *(Automated OMR grading via Computer Vision)* & [react-media-streaming-app](https://github.com/PedroT4skr/react-media-streaming-app).
-- **Specialization**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) & Cross-Platform Mobile Applications (**Flutter** & **Dart**).
-- **Architecture & Quality**: Clean Architecture (MVVM), SOLID principles, responsive UI/UX design, and AI-driven automation.
-- **Continuous Learning**: Always exploring cutting-edge web technologies, performance optimization, and intelligent system integrations.
-- **Goal**: Transforming complex ideas into resilient, scalable, and visually stunning digital products.
+- 🎓 **Academic Focus**: Information Systems (**Sistemas de Informação**) Student — combining software engineering, computer science fundamentals, and business technology.
+- 🚀 **Currently Building**: [gabaritei-ia](https://github.com/PedroT4skr/gabaritei-ia) *(Automated OMR grading via Computer Vision)* & [react-media-streaming-app](https://github.com/PedroT4skr/react-media-streaming-app).
+- 💻 **Specialization**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) & Cross-Platform Mobile Applications (**Flutter** & **Dart**).
+- ⚡ **Architecture & Quality**: Clean Architecture (MVVM), SOLID principles, responsive UI/UX design, and AI-driven automation.
+- 💡 **Continuous Learning**: Always exploring cutting-edge web technologies, performance optimization, and intelligent system integrations.
+- 🎯 **Goal**: Transforming complex ideas into resilient, scalable, and visually stunning digital products.
 
----
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<br/>
 
 ### <img src="https://api.iconify.design/octicon:tools-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> Tech Stack & Tools
 
@@ -44,7 +56,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
----
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<br/>
 
 ### <img src="https://api.iconify.design/octicon:graph-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> GitHub Statistics
 
@@ -57,7 +75,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroT4skr&background=00000000&hide_border=true&stroke=61AFEF&ring=61AFEF&fire=61AFEF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=61AFEF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
----
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<br/>
 
 ### <img src="https://api.iconify.design/octicon:repo-24.svg?color=%2361afef" width="20" height="20" valign="middle"/> Featured Projects
 
@@ -68,9 +92,13 @@
 | **[controle-financeiro-app](https://github.com/PedroT4skr/controle-financeiro-app)** | Aplicativo de controle financeiro móvel com MVVM, SQLite local e Material Design 3. | `Flutter` `SQLite` |
 | **[Pizza-Flow](https://github.com/PedroT4skr/Pizza-Flow)** | Sistema de gerenciamento e fluxo de pedidos em tempo real. | `TypeScript` `Node.js` |
 
----
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrotigree/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/PedroT4skr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61AFEF&height=120&section=footer" width="100%"/>
 </p>
