@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PedroT4skr"><img src="https://img.shields.io/github/followers/PedroT4skr?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22&logoColor=61AFEF" alt="Followers"/></a>
-  <a href="https://github.com/PedroT4skr?tab=repositories"><img src="https://img.shields.io/github/stars/PedroT4skr?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22&logoColor=61AFEF" alt="Stars"/></a>
+  <a href="https://github.com/PedroT4skr"><img src="https://img.shields.io/badge/GitHub-PedroT4skr-61AFEF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub Profile"/></a>
+  <a href="https://github.com/PedroT4skr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9-61AFEF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Repositories"/></a>
 </p>
 
 ---
