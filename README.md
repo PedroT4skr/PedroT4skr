@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Pedro Tigre 👋
+# Hi there
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vcenter=true&width=620&height=50&lines=Software+Engineer+%7C+Information+Systems;Full-Stack+Developer+(TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js);Mobile+Engineer+(Flutter+%E2%80%A2+Dart+%E2%80%A2+Clean+MVVM);Computer+Vision+%26+Intelligent+Edge+Systems" alt="Pedro Tigre - Typing SVG" />
