@@ -3,7 +3,7 @@
 # Hi there
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vcenter=true&width=620&height=50&lines=Software+Engineer+%7C+Information+Systems;Full-Stack+Developer+(TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js);Mobile+Engineer+(Flutter+%E2%80%A2+Dart+%E2%80%A2+Clean+MVVM);Computer+Vision+%26+Intelligent+Edge+Systems" alt="Pedro Tigre - Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vcenter=true&width=640&height=50&lines=Software+Engineer+%7C+Information+Systems;Full-Stack+Developer+(TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js);Systems+%26+Desktop+(Rust+%E2%80%A2+Tauri+%E2%80%A2+Windows+Internals);Computer+Vision+%26+Edge+AI+(OMR+Systems)" alt="Pedro Tigre - Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Academic Background**: B.S. in **Information Systems** (*Sistemas de Informação*), combining computer science fundamentals, scalable software engineering, and business systems.
-- 💻 **Core Specialties**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) and High-Performance Mobile Engineering (**Flutter**, **Dart**).
-- 🏛️ **Architecture & Standards**: Passionate about **Clean Architecture**, **MVVM**, **SOLID** principles, and robust **Offline-First** patterns.
-- ⚡ **Engineering Drive**: Focused on building resilient, low-latency, and user-centric software — from edge Computer Vision tools to distributed web architectures.
+- 💻 **Core Specialties**: Full-Stack Web Development (**TypeScript**, **React**, **Next.js**, **Node.js**) and Systems/Desktop Engineering (**Rust**, **Tauri**, **Windows Internals**).
+- 🏛️ **Architecture & Standards**: Passionate about **Clean Architecture**, **MVVM**, **SOLID** principles, and robust **Offline-First** design patterns.
+- ⚡ **Engineering Drive**: Focused on building resilient, low-latency, and user-centric software — from edge Computer Vision tools to distributed web architectures and system deployment utilities.
 
 ---
 
@@ -72,42 +72,42 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PedroT4skr/controle-financeiro-app">💳 Controle Financeiro — Mobile App</a>
+        <a href="https://github.com/PedroT4skr/Windows-Toolkit">⚡ Windows Toolkit (AutoSetupPro)</a>
       </h3>
-      <p>Personal finance management mobile app developed in Flutter, built with strict MVVM architecture and local SQLite persistence.</p>
+      <p>An elite, zero-touch Windows deployment and system management utility built with <b>Tauri</b>, <b>Rust</b>, and <b>React</b>.</p>
       <ul>
-        <li><b>Clean MVVM Architecture:</b> Strict layer decoupling, testable business logic, and reactive state handling.</li>
-        <li><b>Local-First Persistence:</b> Complete offline reliability powered by an optimized SQLite database schema.</li>
-        <li><b>Material Design 3:</b> Intuitive UX with financial balance indicators, interactive expense breakdowns, and categorized reporting.</li>
+        <li><b>Zero-Desktop Shell Hijack:</b> Boots directly into a custom glassmorphic OOBE UI upon first boot, bypassing <code>explorer.exe</code> via registry injection.</li>
+        <li><b>Fileless USB Media Generator:</b> Automated ISO mounting, disk partitioning, and robocopy payload extraction via WMI & PowerShell.</li>
+        <li><b>Heuristic Bulk Uninstaller:</b> Deep registry and UWP heuristic scanning engine for safe, silent removal of bloatware.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/MVVM-FF6F00?style=flat-square" alt="MVVM" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows API" />
       </p>
       <p>
-        <a href="https://github.com/PedroT4skr/controle-financeiro-app"><b>View Repository →</b></a>
+        <a href="https://github.com/PedroT4skr/Windows-Toolkit"><b>View Repository →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PedroT4skr/harbor-1">⚓ Harbor & Ecosystem Releases</a>
+        <a href="https://github.com/PedroT4skr/Pizza-Flow">🍕 Pizza-Flow — Smart Pizzeria & Order Automation</a>
       </h3>
-      <p>Next-gen custom media streaming client and automated OTA gatekeeper infrastructure.</p>
+      <p>A full-stack pizzeria management system integrated with an automated WhatsApp bot for real-time customer ordering and kitchen workflows.</p>
       <ul>
-        <li><b>Stream Ranking Engine:</b> Intelligent source prioritization, native player integration, and custom theme support.</li>
-        <li><b>OTA Pipeline Automation:</b> Integrated with <code>stremio-releases</code> for seamless OTA distribution and version gating.</li>
-        <li><b>Community-Driven:</b> Advanced feature set including watch parties, live TV integration, and Wikidata enrichments.</li>
+        <li><b>WhatsApp Order Automation:</b> Conversational bot handling customer ordering, menu exploration, and automated status updates.</li>
+        <li><b>Live Kitchen Dashboard:</b> Real-time order dispatch and preparation tracking system with streamlined order statuses.</li>
+        <li><b>Dockerized Architecture:</b> Isolated container setup for backend services and PostgreSQL database reliability.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Custom_Client-181717?style=flat-square&logo=github&logoColor=white" alt="Client" />
-        <img src="https://img.shields.io/badge/OTA_Releases-E0234E?style=flat-square" alt="OTA" />
-        <img src="https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <p>
-        <a href="https://github.com/PedroT4skr/harbor-1"><b>View Harbor →</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
-        <a href="https://github.com/PedroT4skr/stremio-releases"><b>View Releases Gatekeeper →</b></a>
+        <a href="https://github.com/PedroT4skr/Pizza-Flow"><b>View Repository →</b></a>
       </p>
     </td>
   </tr>
@@ -121,11 +121,11 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript (ES6+)` `Dart` `Python` `Rust` `SQL` |
-| **Frontend & Web** | `React` `Next.js` `Vite` `Tailwind CSS` `HTML5` `CSS3` |
-| **Mobile** | `Flutter` `Dart` `React Native` `Material Design 3` |
+| **Languages** | `TypeScript` `JavaScript (ES6+)` `Rust` `Dart` `Python` `SQL` |
+| **Frontend & Desktop** | `React` `Next.js` `Tauri` `Tailwind CSS` `Vite` `HTML5` `CSS3` |
+| **Mobile & Systems** | `Flutter` `Dart` `React Native` `Windows APIs` `Material Design 3` |
 | **Backend & APIs** | `Node.js` `Express` `PostgreSQL` `SQLite` `RESTful APIs` |
-| **Architecture & Tools** | `Clean Architecture` `MVVM` `SOLID` `Git` `GitHub Actions` `Docker` `Figma` |
+| **Architecture & Tools** | `Clean Architecture` `MVVM` `SOLID` `Docker` `Git` `GitHub Actions` `Figma` |
 
 </div>
 
@@ -133,15 +133,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </div>
 
 ---
@@ -149,8 +149,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroT4skr&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroT4skr&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&hide=html,css" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroT4skr&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroT4skr&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&hide=html,css" alt="Top Languages" />
 </div>
 
 <p align="center">

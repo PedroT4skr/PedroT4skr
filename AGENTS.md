@@ -14,36 +14,37 @@ Este repositório (`PedroT4skr/PedroT4skr`) é o repositório especial de perfil
 ## Mapeamento de Seções do README.md
 1. **Header / Hero Section (`README.md#L1-L18`)**:
    - Apresentação de alto nível.
-   - Dynamic Typing SVG com rotação de competências-chave: Engenharia de Software, Full-Stack (TS/React/Node), Mobile (Flutter/Dart/MVVM) e Visão Computacional / Sistemas Edge.
+   - Dynamic Typing SVG com rotação de competências-chave: Engenharia de Software, Full-Stack (TS/React/Node), Sistemas & Desktop (Rust/Tauri/Windows Internals) e Visão Computacional / Edge AI.
    - Quick action badges padronizados (LinkedIn e Repositórios).
 2. **About Me (`README.md#L20-L29`)**:
    - Formação em Sistemas de Informação.
-   - Especialização Full-Stack e Mobile.
+   - Especialização Full-Stack e Systems/Desktop Engineering.
    - Padrões arquiteturais: Clean Architecture, MVVM, SOLID, Offline-First.
-3. **Featured Engineering Projects Showcase (`README.md#L31-L119`)**:
+3. **Featured Engineering Projects Showcase (`README.md#L31-L121`)**:
    - Grid 2x2 com cards ricos estruturados em HTML Table com renderização fluida no GitHub (desktop e mobile).
    - `gabaritei-ia`: Foco em Visão Computacional (OMR) on-device, arquitetura offline-first e UI glassmorphic.
    - `react-media-streaming-app`: Monorepo com engine backend de in-memory cache (<200ms) e sync Trakt.
-   - `controle-financeiro-app`: Flutter com MVVM estrito, persistência local SQLite offline-first e Material Design 3.
-   - `harbor-1` & `stremio-releases`: Ecossistema de client customizado, stream ranking engine e pipeline OTA de releases.
-4. **Tech Stack & Tooling (`README.md#L121-L149`)**:
-   - Tabela de competências agrupada por domínios (Languages, Frontend, Mobile, Backend, Architecture).
+   - `Windows-Toolkit`: Arquitetura de deployment do Windows em Rust + Tauri + React, Zero-Desktop OOBE Hijack, fileless USB media generator via WMI/PowerShell e desinstalador heurístico de bloatware.
+   - `Pizza-Flow`: Sistema full-stack para gestão de pizzarias integrado a bot de WhatsApp para captura automática de pedidos, painel em tempo real para cozinha e containers Docker.
+4. **Tech Stack & Tooling (`README.md#L123-L151`)**:
+   - Tabela de competências agrupada por domínios (Languages, Frontend & Desktop, Mobile & Systems, Backend & APIs, Architecture & Tools).
    - Badges estilizados com layout limpo e consistente.
-5. **GitHub Analytics (`README.md#L151-L163`)**:
-   - Cards com tema escuro compatível com GitHub Dark (`bg_color=0d1117`, `border_color=30363d`, acento `#58a6ff`).
+5. **GitHub Analytics (`README.md#L153-L165`)**:
+   - Endpoint oficial e estável `github-readme-stats.vercel.app` para evitar esgotamento de PAT/tokens de terceiros.
+   - Cards com tema escuro nativo do GitHub (`bg_color=0d1117`, `border_color=30363d`, acento `#58a6ff`).
    - GitHub Stats, Top Languages e Streak Stats alinhados.
-6. **Get in Touch / Footer (`README.md#L165-L175`)**:
+6. **Get in Touch / Footer (`README.md#L167-L177`)**:
    - Canais de contato profissionais limpos e objetivos.
 
 ---
 
 ## Histórico de Mudanças & Refatores
-- **2026-10-20**:
-  - **Diagnóstico**: O layout antigo continha divisores gif arco-íris datados e repetitivos, falta de categorização de stacks, apenas 1 linha estática no typing SVG, e uma tabela básica que escondia a complexidade técnica dos projetos.
-  - **Refatoração Completa**:
-    - Removidos todos os GIFs arco-íris clichês.
-    - Implementado Typing SVG dinâmico e multi-cargo com fonte Inter e azul nativo GitHub.
-    - Adicionado showcase 2x2 com cards técnicos aprofundados para os 4 principais projetos (Gabaritei OMR, Streaming App, Controle Financeiro Flutter, Harbor).
-    - Unificação do idioma para Inglês Técnico internacional.
-    - Padronização das cores dos cards de métricas do GitHub para `#0d1117` e borda `#30363d`.
-    - Criação do documento `AGENTS.md` para governança de contexto.
+- **2026-10-20 (v2 - Atualização de Projetos & Fix de Métricas)**:
+  - Substituído `controle-financeiro-app` por **`Pizza-Flow`** (Sistema de pedidos com bot WhatsApp + Docker).
+  - Substituído `harbor-1`/`stremio-releases` por **`Windows-Toolkit`** (Projeto de altíssimo nível técnico com Rust + Tauri + Windows APIs).
+  - Corrigido o host dos cards de métricas do GitHub: migrado de `github-readme-stats-sigma-five.vercel.app` (fork cujo token PAT de API estava estourado) para a instância oficial e estável `github-readme-stats.vercel.app`.
+  - Atualizado o Typing SVG e badges para incluir Rust, Tauri e Windows APIs.
+- **2026-10-20 (v1 - Refatoração Inicial)**:
+  - Removidos divisores gif arco-íris e elementos datados.
+  - Implementado layout profissional modular estilo Dark Minimalist.
+  - Adicionado `AGENTS.md` para documentação de contexto.
